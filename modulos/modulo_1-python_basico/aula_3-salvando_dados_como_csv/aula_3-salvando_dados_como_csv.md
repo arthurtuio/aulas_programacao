@@ -5,10 +5,12 @@ Aprenderemos a salvar dados de variaveis como um arquivos do tipo CSV e TXT, e t
 Conteudos:
 1. Criando arquivos vazios (CSV e TXT):
 2. Adicionando dados nestes arquivos
-   1. Usando input para capturar valores, salvar como uma lista
-   2. Para cada item da lista, salvar os valores detes num dicionario, e depois salvar esse dicionario numa lista de dicionarios
-   3. Por fim, usar essa lista de dicionarios para salvar no CSV
-3. Ler os arquivos
+   1. Salvando um dicionario cujos valores sao listas como CSV
+   2. Salvando uma lista de dicionarios como CSV
+   3. Usando input para capturar valores, salvar como uma lista
+   4. Para cada item da lista, salvar os valores detes num dicionario, e depois salvar esse dicionario numa lista de dicionarios
+   5. Por fim, usar essa lista de dicionarios para salvar no CSV
+3. Ler os arquivos usando a lib pandas
 
 Desafio:
 - Criar um CSV que registre as operacoes feitas na calculadora criada anteriormente. 
